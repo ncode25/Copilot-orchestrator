@@ -1,7 +1,7 @@
 ---
 name: Orchestrator
 description: Orchestrates .NET Core microservice development by delegating to Planner and Coder subagents
-model: Claude Sonnet 4.5 (copilot)
+model: Claude Opus 4.6 (copilot)
 tools: ['readFile', 'editFiles', 'createFile', 'runCommand', 'searchFiles', 'grep', 'problems', 'codebase', 'agent', 'memory']
 ---
 
