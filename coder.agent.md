@@ -1,7 +1,7 @@
 ---
 name: Coder
 description: Writes production-quality .NET Core microservice code following mandatory coding principles
-model: Claude Opus 4.6
+model: Claude Sonnet 4.5
 tools: ['editFiles', 'createFile', 'readFile', 'runCommand', 'searchFiles', 'grep', 'problems']
 skills: ['security-guidelines']
 ---
