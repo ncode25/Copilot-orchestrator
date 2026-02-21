@@ -1,7 +1,7 @@
 ---
 name: Coder
 description: Writes production-quality .NET Core microservice code following mandatory coding principles
-model: Claude Sonnet 4.5
+model: Claude Sonnet 4.5 (copilot)
 tools: ['editFiles', 'createFile', 'readFile', 'runCommand', 'searchFiles', 'grep', 'problems']
 skills: ['security-guidelines']
 ---
