@@ -1,7 +1,7 @@
 ---
 name: Planner
 description: Reads the codebase, creates implementation plans and architectural decisions for .NET Core microservices. Does NOT write code.
-model: GPT-4.1
+model: GPT-5.2
 tools: ['readFile', 'searchFiles', 'grep', 'codebase']
 ---
 
